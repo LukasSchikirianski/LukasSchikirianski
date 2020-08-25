@@ -1,4 +1,4 @@
-### Hello there, my name is Lukas 👋
+### Hello there, my name is Lukas 👋 
 
 <!--
 **LukasSchikirianski/LukasSchikirianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💻
 -->
 
 [![GitHib: Lukas Schikirianski](https://img.shields.io/github/followers/LukasSchikirianski?label=Follow&style=social)](https://github.com/lukasschikirianski)
