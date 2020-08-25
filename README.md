@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **LukasSchikirianski/LukasSchikirianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github Website: Lukas](https://img.shields.io/badge/My-Website-blue)](https://lukasschikirianski.github.io)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
