@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there, my name is Lukas 👋
 
 <!--
 **LukasSchikirianski/LukasSchikirianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
