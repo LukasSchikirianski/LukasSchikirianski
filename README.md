@@ -16,31 +16,17 @@ Here are some ideas to get you started:
 
 💻
 -->
+[![GitHub: Lukas Schikirianski](https://img.shields.io/github/followers/LukasSchikirianski?label=Follow&style=social)](https://github.com/lukasschikirianski)
+[![Github Website: Lukas](https://img.shields.io/badge/Github-Website-brightgreen)](https://lukasschikirianski.github.io)
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" width="64"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="64"/>
 
-[![GitHub: Lukas Schikirianski](https://img.shields.io/github/followers/LukasSchikirianski?label=Follow&style=social)](https://github.com/lukasschikirianski)
-[![Github Website: Lukas](https://img.shields.io/badge/Github-Website-brightgreen)](https://lukasschikirianski.github.io)
+<div align="left">
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  \
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
-
-</details>
-<div align="center">
-  [![GitHub: Lukas Schikirianski](https://img.shields.io/github/followers/LukasSchikirianski?label=Follow&style=social)](https://github.com/lukasschikirianski)
-[![Github Website: Lukas](https://img.shields.io/badge/Github-Website-brightgreen)](https://lukasschikirianski.github.io)
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  \
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
-
-</details>
+  <details>
+    <summary>:zap: Github Stats</summary>
+    \
+    ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
+  </details>
 </div>
