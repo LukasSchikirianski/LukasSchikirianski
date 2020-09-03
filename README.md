@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     :zap: Github Stats
   </summary>
   
-  <br/>
-  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
+<br/>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
 
 </details>
