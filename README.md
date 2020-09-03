@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>
-    :zap: Github Stats
-  </summary>
+  <summary>:zap: Github Stats</summary>
   
-<br/>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
+    
+  ![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&hide=[%22issues%22]&show_icons=true)
 
 </details>
