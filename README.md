@@ -12,4 +12,4 @@
 </div>
 
 <summary>:zap: Github Stats</summary>
-\![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide=[%22issues%22]&show_icons=true?theme=dark)
+/![My Github Stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide=[%22issues%22]&show_icons=true?theme=dark)
