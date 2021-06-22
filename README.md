@@ -3,6 +3,8 @@
 I'm a 16-year-old hobbyist developer from Germany and have a great interest in electronics and robotics.
 Since 2019 (when I started programming) I developd many different skills but quickly set my focused on game development. 
 
+[![Website: Lukas](https://img.shields.io/badge/My-Website-blue?style=for-the-badge)](https://lukasschikirianski.github.io)
+
 [![GitHub: Lukas Schikirianski](https://img.shields.io/github/followers/LukasSchikirianski?label=Follow&style=social)](https://github.com/lukasschikirianski)
 
 ![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide=[%22issues%22]&show_icons=true?theme=dark)
