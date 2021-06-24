@@ -9,9 +9,6 @@ Since 2019 (when I started programming) I developd many different skills but qui
 
 ![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide=[%22issues%22]&show_icons=true?theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117)
-
-
 
 ## Skills:
 
@@ -24,3 +21,6 @@ Since 2019 (when I started programming) I developd many different skills but qui
 - **Mobile:** Flutter
 - **Languages:** C#, Java, Dart, Python, C++
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasschikirianski&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117)
